@@ -7,10 +7,12 @@ As a passionate professional with extensive experience in **DevOps**, **Cloud Co
 
 ### 🛠️ DevOps
 With a strong foundation in **DevOps principles** and practices, I'm adept at automating and optimizing development cycles, ensuring seamless, efficient deployments, and maintaining high availability systems.
-- Python
+- Programming: Python, Shell Scripting, Java
 - Infrastructure as Code (IaC), Terraform, CloudFormation
 - Config Management, Ansible
 - Containerization, Kubernetes, Docker, EKS, GKE, OpenShift.
+- CI/CD, Jenkins, Travis, Deployment automation. 
+- Source Control: GitHub, BitBucket, DVC.
 
 
 ### ☁️ Cloud Computing
@@ -34,7 +36,7 @@ Passionate about **Artificial Intelligence** and **Machine Learning**, I develop
 - Supervised Learning
 - Unsupervised Learning
 - Generative AI
-- 
+- Deep Learning, Artificial NeuralNetwork (ANN) and CNN. 
 
 ### 🔒 Cybersecurity
 Understanding the paramount importance of security, I integrate **Cybersecurity** best practices into every layer of infrastructure and software development, protecting data integrity and confidentiality against evolving threats.
