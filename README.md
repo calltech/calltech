@@ -5,32 +5,6 @@
 ## 💼 Expertise
 As a passionate professional with extensive experience in **DevOps**, **Cloud Computing**, **MLOps**, **AI/ML**, and **Cybersecurity**, I've dedicated my career to mastering the technologies that drive today's most innovative solutions. Here's a brief overview of my expertise:
 
-### 🛠️ DevOps
-With a strong foundation in **DevOps principles** and practices, I'm adept at automating and optimizing development cycles, ensuring seamless, efficient deployments, and maintaining high availability systems.
-- Programming: Python, Shell Scripting, Java
-- Infrastructure as Code (IaC), Terraform, CloudFormation
-- Config Management, Ansible
-- Containerization, Kubernetes, Docker, EKS, GKE, OpenShift.
-- CI/CD, Jenkins, Travis, Deployment automation. 
-- Source Control: GitHub, BitBucket, DVC.
-
-
-### ☁️ Cloud Computing
-Experienced in leading cloud platforms like **AWS**, **IBM Cloud**, and **GCP**, I specialize in designing and managing scalable, resilient cloud infrastructure that supports enterprise-level applications.
-- AWS
-- GCP
-- IBM Cloud
-- OpenShift (Hubrid Cloud)
-
-### 🤖 MLOps
-Combining **Machine Learning** with **DevOps**, I implement MLOps strategies to streamline the lifecycle of AI and ML projects, from data collection and model training to deployment and monitoring.
-- Data Version Control (DVC)
-- Hydra
-- MLFlow
-- Dask
-- FastApi
-- Streamlit
-
 ### 🧠 AI/ML
 Passionate about **Artificial Intelligence** and **Machine Learning**, I develop models that drive decision-making processes, improve customer experiences, and solve complex business challenges.
 - Supervised Learning
